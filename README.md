@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EnzoGoncalves
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 EnzoGoncalves/EnzoGoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
