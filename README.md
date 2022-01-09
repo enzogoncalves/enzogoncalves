@@ -21,7 +21,7 @@
 <img width="50px" height="40" align="center" alt="Enzo-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 </div>
 
-![Snake animation](https://github.com/EnzoMateus/EnzoMateus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EnzoMateus/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 EnzoGoncalves/EnzoGoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
