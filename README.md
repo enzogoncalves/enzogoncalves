@@ -21,6 +21,8 @@
 <img width="50px" height="40" align="center" alt="Enzo-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 </div>
 
+##
+
 ![Snake animation](https://github.com/enzogoncalves/enzogoncalves/blob/output/github-contribution-grid-snake.svg)
 
 <!---
