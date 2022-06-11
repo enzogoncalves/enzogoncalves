@@ -1,9 +1,4 @@
-> 👋 Hi, I’m @EnzoGoncalves  
-
-> 👀 I'm interested in web development  
-
-> 🌱 I’m currently learning JavaScript  
-
+### Meu nome é Enzo Mateus e atualmente estudo desenvolvimento web, tanto front-end quanto back-end. 
 
 <div margin-bottom="16px">
 <a href="https://github.com/EnzoGoncalves">
