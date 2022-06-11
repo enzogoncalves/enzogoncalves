@@ -1,4 +1,4 @@
-### Meu nome é Enzo Mateus e atualmente estudo desenvolvimento web, tanto front-end quanto back-end. 
+### Meu nome é Enzo Mateus e atualmente estudo desenvolvimento web, tanto front-end quanto back-end.  
 
 <div margin-bottom="16px">
 <a href="https://github.com/EnzoGoncalves">
