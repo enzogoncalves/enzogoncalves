@@ -8,6 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGoncalves&layout=compact&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=EBB400&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 </div>
+<br>
+
+### Linguagens e Tecnologias
 
 <div style="display: inline-block"><br>
 <img width="50px" height="40" align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
@@ -16,6 +19,7 @@
 <img width="50px" height="40" align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
 <img width="50px" height="40" align="center" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img width="50px" height="40" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="50px" height="40" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 ##
