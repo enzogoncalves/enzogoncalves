@@ -9,7 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogoncalves&layout=compact&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=EBB400&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 </div>
-<br>
 
 ### Linguagens e Tecnologias
 
