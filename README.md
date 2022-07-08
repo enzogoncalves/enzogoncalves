@@ -1,7 +1,7 @@
 ### Meu nome é Enzo Mateus Gonçalves e atualmente estudo desenvolvimento web, tanto front-end quanto back-end.
 ##
 <h3>Meus status do github</h3>
-<div margin-bottom="16px">
+<div>
 <a href="https://github.com/enzogoncalves">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzogoncalves&include_all_commits=true&hide=issues,prs,contribs&show_icons=true&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=39b881&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
