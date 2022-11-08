@@ -3,7 +3,7 @@
 <h3>Meus status do github</h3>
 <div>
 <a href="https://github.com/enzogoncalves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzogoncalves&include_all_commits=true&hide=issues,prs,contribs&show_icons=true&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=39b881&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzogoncalves&include_all_commits=true&hide=issues&show_icons=true&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=39b881&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 <a href="https://github.com/enzogoncalves">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogoncalves&layout=compact&title_color=04AFB8&text_color=fafafa&bg_color=0D0D0D&border_radius=8&icon_color=EBB400&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)" />
