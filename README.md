@@ -1,4 +1,4 @@
-### Meu nome é Enzo Mateus Gonçalves e atualmente estudo desenvolvimento web, tanto front-end quanto back-end.
+### Meu nome é Enzo Mateus Gonçalves e atualmente sou desenvolvedor Full-Stack
 ##
 ### Meus status do github 
 <div>
